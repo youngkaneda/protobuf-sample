@@ -1,2 +1,9 @@
 # java classes
-target/
+server/target/
+
+# idea files
+server/*.iml
+server/.idea/
+
+# node modules
+client/node_modules/
