@@ -1,4 +1,4 @@
-# protobuf-sample :coffe: 
+# protobuf-sample :coffee:
 
 ### This is a simple project that i made to study the google protobuf.
 
